@@ -1,0 +1,19 @@
+{
+    "apiLoginEndpoint": "[REACT_APP_URL_JAVA]/api/v1/login",
+    "apiArticoliEndpoint": "[REACT_APP_URL_JAVA]/api/v1/articoli/all",
+    "apiArticoloEndpoint": "[REACT_APP_URL_JAVA]/api/v1/articoli",
+    "apiArticoloStartingWithEnpoint": "[REACT_APP_URL_JAVA]/api/v1/articoli/all/like",
+    "apiNewArticoloEndpoint" : "[REACT_APP_URL_JAVA]/api/v1/new-articoli",
+    "apiDeleteArticoloEndpoint": "[REACT_APP_URL_JAVA]/api/v1/articoli/delete",
+    "apiUpdateArticoloEndpoint": "[REACT_APP_URL_JAVA]/api/v1/articoli/update",
+    "apiOrdiniEndpoint":"[REACT_APP_URL_JAVA]/api/v1/ordine/all",
+    "apiOrdineEndpoint":"[REACT_APP_URL_JAVA]/api/v1/ordine",
+    "apiInsertOrdineEndpoint":"[REACT_APP_URL_JAVA]/api/v1/new-ordine",
+    "apiDeleteOrdineEndpoint": "[REACT_APP_URL_JAVA]/api/v1/ordine",
+    "apiFilialiEndpoint": "[REACT_APP_URL_JAVA]/api/v1/branch-search",
+    "apiClienteEndpoint": "[REACT_APP_URL_JAVA]/api/v1/customer-search",
+    "apiVerifyAnagraficaEndpoint": "[REACT_APP_URL_JAVA]/api/v1/customer-mark-as-edited",
+    "apiStatsTotali": "[REACT_APP_URL_JAVA]/api/v1/get-stats",
+    "apiDownloadEndpoint": "[REACT_APP_URL_JAVA]/api/v1/document"
+  }
+  
